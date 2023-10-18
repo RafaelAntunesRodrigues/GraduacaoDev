@@ -1,4 +1,4 @@
-###Estrutura do Projeto
+##Estrutura do Projeto
 ##Integrantes
 >Arthur Cruz Modena - RA 1945514
 >Rafael Antunes Rodrigues RA 1953210
